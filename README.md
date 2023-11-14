@@ -12,7 +12,7 @@ Descrição curta do seu projeto.
 
 ## Demonstração
 
-Veja uma demo do projeto [aqui](https://ecommerce-tau-kohl.vercel.app/)
+Veja uma demo do projeto [aqui](https://shop-liart-zeta.vercel.app/)
 
 ## Instalação
 
