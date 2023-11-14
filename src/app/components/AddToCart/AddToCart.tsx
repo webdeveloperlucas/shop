@@ -5,7 +5,7 @@ import { addToCart } from '@/app/redux/slices/cartSlice'
 import { useDispatch,useSelector } from 'react-redux'
 const AddToCart = ({
     product 
-}:{product:ProductProps}) => {
+}:any) => {
 
    const dispatch = useDispatch()
 
