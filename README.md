@@ -1,4 +1,4 @@
-# Nome do Seu Projeto
+# MKSEcommerce
 
 Descrição curta do seu projeto.
 
@@ -12,7 +12,7 @@ Descrição curta do seu projeto.
 
 ## Demonstração
 
-Veja uma demo do projeto [aqui](https://shop-3mc3cgu1x-webdevelopers-projects-a3d1644c.vercel.app/).
+Veja uma demo do projeto [aqui](https://ecommerce-tau-kohl.vercel.app/)
 
 ## Instalação
 
@@ -20,7 +20,7 @@ Veja uma demo do projeto [aqui](https://shop-3mc3cgu1x-webdevelopers-projects-a3
 
    ```bash
    git clone https://github.com/seu-usuario/seu-projeto.git
-   cd seu-projeto
+   cd shop
 
 ## Instale as Dependências:
 
